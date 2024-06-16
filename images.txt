@@ -1,2 +1,2 @@
 python:3.11-slim
-langchain
+langchain:0.1.16
